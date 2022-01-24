@@ -1,0 +1,8 @@
+/node_modules
+/.idea/
+secrets.json
+/build
+/coverage
+/.openzeppelin
+coverage.json
+.DS_Store
