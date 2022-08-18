@@ -1,6 +1,6 @@
 Exchange Contract 
 ======================
-The `Auxi` contract is the contract that the governance will control so that critical functions like fee calculations. 
+The `Auxi` contract controls critical functions like fee calculations. 
 
 Constants
 -------------
