@@ -88,6 +88,48 @@ Implementation Details
 Capx Exchange functions as a completely decentralised community peer-2-peer exchange for the secondary markets at a high level.
 For more details see [Auxi.md](./ContractDocumentation/Auxi.md) and [Exchange.md](./ContractDocumentation/Exchange.md)
 
+### Contract Address
+
+#### Binance Smart Chain (BSC)
+| Contract Name     | Contract Address  |
+|---------------------|--------------------------------------------------------------------|
+| Exchange   | [0x9148B64Da26d572290EE1C461A733f7857FAA599](https://bscscan.com/address/0x9148B64Da26d572290EE1C461A733f7857FAA599)	 |
+| Auxi   | [0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1](https://bscscan.com/address/0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1)	 |
+
+#### Matic (Polygon)
+| Contract Name     | Contract Address  |
+|---------------------|--------------------------------------------------------------------|
+| Exchange   | [0x9148B64Da26d572290EE1C461A733f7857FAA599](https://polygonscan.com/address/0x9148B64Da26d572290EE1C461A733f7857FAA599)	 |
+| Auxi   | [0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1](https://polygonscan.com/address/0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1)	 |
+
+#### Avalanche
+| Contract Name     | Contract Address  |
+|---------------------|--------------------------------------------------------------------|
+| Exchange   | [0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1](https://snowtrace.io/address/0x463CdDd0f76C8bd7E70A73cdA1b9da2bcaB64FB1)	 |
+| Auxi   | [0x62286a4bfb9dfcbe5877d4c988fe08f613f3034d](https://snowtrace.com/address/0x62286a4bfb9dfcbe5877d4c988fe08f613f3034d)	 |
+
+## Subgraph Query URLs
+
+### Binance Smart Chain (BSC)
+
+| Subgraph     | Query URL  |
+|---------------------|--------------------------------------------------------------------|
+| Exchange Subgraph   | https://api.thegraph.com/subgraphs/name/capxdev/capx-exchange-bsc	 |
+
+### Matic (Polygon)
+
+| Subgraph     | Query URL  |
+|---------------------|--------------------------------------------------------------------|
+| Exchange Subgraph   | https://api.thegraph.com/subgraphs/name/capxdev/capx-exchange-matic		 |
+
+### Avalanche
+
+| Subgraph     | Query URL  |
+|---------------------|--------------------------------------------------------------------|
+| Exchange Subgraph   | https://api.thegraph.com/subgraphs/name/capxdev/capx-exchange-avalanche	 |
+
+
+
 Flow Diagrams
 -------------------
 #### Deposit tokens
